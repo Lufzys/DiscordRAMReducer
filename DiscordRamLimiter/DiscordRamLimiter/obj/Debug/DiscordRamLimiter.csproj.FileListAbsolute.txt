@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\DiscordRamLimiter\DiscordRamLimiter\bin\Debug\DiscordRamLimiter.exe.config
+C:\Users\furka\source\repos\DiscordRamLimiter\DiscordRamLimiter\bin\Debug\DiscordRamLimiter.exe
+C:\Users\furka\source\repos\DiscordRamLimiter\DiscordRamLimiter\bin\Debug\DiscordRamLimiter.pdb
+C:\Users\furka\source\repos\DiscordRamLimiter\DiscordRamLimiter\obj\Debug\DiscordRamLimiter.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\DiscordRamLimiter\DiscordRamLimiter\obj\Debug\DiscordRamLimiter.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\DiscordRamLimiter\DiscordRamLimiter\obj\Debug\DiscordRamLimiter.exe
+C:\Users\furka\source\repos\DiscordRamLimiter\DiscordRamLimiter\obj\Debug\DiscordRamLimiter.pdb
